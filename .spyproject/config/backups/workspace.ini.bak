@@ -1,0 +1,12 @@
+[workspace]
+restore_data_on_startup = True
+save_data_on_exit = True
+save_history = True
+save_non_project_files = False
+project_type = 'empty-project-type'
+recent_files = ['main.py', 'Detector.py', 'yolov8_detector.py', 'Realsense.py', 'Robot.py', 'connect2UR_RTDE.py', 'Connect2UR5.py', '..\\..\\RealSense\\RealSense\\realsense.py', '..\\..\\RealSense\\RealSense\\main.py', '..\\..\\..\\Camera\\ThreeTaskInter\\upgrade\\hsvrangefinder.py', '..\\..\\RealSense\\RealSense\\mediapipe_detector.py', 'UR_Facetracking-master\\Face_tracking01.py', 'UR_Facetracking-master\\UR5Kinematics.py', '..\\..\\..\\..\\..\\..\\..\\..\\Users\\Jiaqi Ye\\Desktop\\DMFOHKSPQJVBN\\Interesting projects to recap\\Side Projects\\3D body detection\\3D body reconstruction\\realsense_2D_to_3D.py', '..\\..\\..\\..\\..\\..\\..\\..\\Users\\Jiaqi Ye\\Downloads\\export_ply_example.py', '..\\..\\..\\..\\..\\..\\..\\..\\Users\\Jiaqi Ye\\Downloads\\opencv_pointcloud_viewer.py', '..\\..\\..\\..\\..\\..\\..\\..\\Users\\Jiaqi Ye\\Downloads\\align-depth2color.py', 'L515_test.py', '..\\..\\..\\..\\..\\..\\..\\..\\Users\\Jiaqi Ye\\Desktop\\DMFOHKSPQJVBN\\Interesting projects to recap\\Side Projects\\electronic-components\\Model\\YOLO_electronic_components_detector.py', '..\\..\\FLIR\\FLIR SDKs\\Examples\\Python3\\AcquireAndDisplay.py']
+
+[main]
+version = 0.2.0
+recent_files = []
+
